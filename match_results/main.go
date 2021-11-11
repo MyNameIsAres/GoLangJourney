@@ -2,6 +2,12 @@ package main
 
 import "fmt"
 
+/*
+   win  = 3 points
+   draw = 1 points
+   loss = 0 points
+*/
+
 func main() {
 	var input string
 	fmt.Scanln(&input)
